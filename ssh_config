@@ -1,0 +1,15 @@
+# host-specifig option
+Host oldarch
+	HostName oldarch
+	Port 2200
+	User francist
+
+host heaven
+	hostname heaven
+	port 22
+	user francist
+
+host venus
+	hostname 192.168.1.9
+	port 22
+	user francist
